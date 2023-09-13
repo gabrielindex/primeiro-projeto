@@ -1,4 +1,15 @@
 .container {
     display: flex;
-    flex-direction: ;
+    flex-direction: row;
 }
+ul {
+    gap: 520px;
+    display: flex;
+    flex-direction: row;
+}
+h1 {
+    gap: 520px;
+    display: flex;
+    flex-direction: row;
+}
+  
