@@ -1,15 +1,36 @@
 .container {
     display: flex;
     flex-direction: row;
+    background-color: #40E0D0;
 }
 ul {
     gap: 520px;
     display: flex;
     flex-direction: row;
+    margin: 0%;
 }
-h1 {
-    gap: 520px;
-    display: flex;
-    flex-direction: row;
+.baner {
+ background-color:	#20B2AA;
+text-align: center;
+margin: 0%;
 }
-  
+.menu {
+    background-color: #00CED1;
+}
+  h1{
+    text-align: center;
+    margin: 0%;
+  }
+.rodape {
+    background-color: 	#48D1CC;
+    text-align: center;
+}
+body {
+    margin: 0%;
+}
+hr {
+    margin: 0%;
+}
+p {
+    text-align: center;
+}
