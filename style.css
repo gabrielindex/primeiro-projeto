@@ -1,36 +1,25 @@
-.container {
-    display: flex;
-    flex-direction: row;
-    background-color: #40E0D0;
+.titulo{
+display: flex;
+gap: 300px;
 }
-ul {
-    gap: 520px;
-    display: flex;
-    flex-direction: row;
-    margin: 0%;
+.pontos{
+    height: 24px;
 }
-.baner {
- background-color:	#20B2AA;
-text-align: center;
-margin: 0%;
+h1{
+    font-size: 24px;
 }
-.menu {
-    background-color: #00CED1;
+.meio{
+
 }
-  h1{
-    text-align: center;
-    margin: 0%;
-  }
-.rodape {
-    background-color: 	#48D1CC;
-    text-align: center;
+.gato1{
+    height: 100px;
 }
-body {
-    margin: 0%;
+.gato2{
+    height: 100px;
 }
-hr {
-    margin: 0%;
+.gato3{
+    height: 100px;
 }
-p {
-    text-align: center;
+.gato4{
+    height: 100px;
 }
